@@ -55,7 +55,7 @@ const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.7 }}
         >
           The desktop tool everyone's talking about. Live stats, instant commands, local AI, 
-          7 stunning themes — and it's <span className="text-primary font-semibold">completely free</span>. 
+          5 stunning themes — and it's <span className="text-primary font-semibold">completely free</span>. 
           Don't be the last to try it.
         </motion.p>
 
@@ -110,7 +110,7 @@ const HeroSection = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.6, delay: 1.1 }}
         >
-          {["7 Themes", "Live System Stats", "Command Bar", "Local AI", "Desktop Widget", "Privacy-First"].map((chip, i) => (
+          {["5 Themes", "Live System Stats", "Command Bar", "Local AI", "Desktop Widget", "Privacy-First"].map((chip, i) => (
             <motion.span
               key={chip}
               className="px-3 py-1.5 text-sm rounded-full border border-border/30 text-muted-foreground bg-card/20"

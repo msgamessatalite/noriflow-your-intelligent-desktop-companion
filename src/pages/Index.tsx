@@ -4,6 +4,8 @@ import HeroSection from "@/components/HeroSection";
 import StatsSection from "@/components/StatsSection";
 import FeaturesSection from "@/components/FeaturesSection";
 import WorkspacesSection from "@/components/WorkspacesSection";
+import ThemeShowcaseSection from "@/components/ThemeShowcaseSection";
+import DesktopPulseSection from "@/components/DesktopPulseSection";
 import RoadmapSection from "@/components/RoadmapSection";
 import CTASection from "@/components/CTASection";
 import FooterSection from "@/components/FooterSection";
@@ -17,6 +19,8 @@ const Index = () => {
       <StatsSection />
       <FeaturesSection />
       <WorkspacesSection />
+      <ThemeShowcaseSection />
+      <DesktopPulseSection />
       <RoadmapSection />
       <CTASection />
       <FooterSection />

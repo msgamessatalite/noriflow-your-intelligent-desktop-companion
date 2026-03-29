@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 import ScrollReveal from "./ScrollReveal";
 
 const stats = [
-  { value: "v0.5.0", label: "Current release" },
-  { value: "4", label: "Core workspaces" },
-  { value: "100%", label: "Offline capable" },
-  { value: "0", label: "Data sent to cloud" },
+  { value: "7", label: "Built-in themes" },
+  { value: "6+", label: "Power workspaces" },
+  { value: "100%", label: "Offline & private" },
+  { value: "15MB", label: "Tiny download" },
 ];
 
 const StatsSection = () => (

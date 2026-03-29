@@ -9,7 +9,7 @@ const steps = [
 ];
 
 const RoadmapSection = () => (
-  <section className="py-32 px-4">
+  <section id="roadmap" className="py-32 px-4">
     <div className="max-w-4xl mx-auto">
       <ScrollReveal className="text-center mb-16">
         <span className="text-sm font-mono text-primary tracking-wider uppercase">Roadmap</span>

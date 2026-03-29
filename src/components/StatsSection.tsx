@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import ScrollReveal from "./ScrollReveal";
 
 const stats = [
-  { value: "7", label: "Built-in themes" },
+  { value: "5", label: "Built-in themes" },
   { value: "6+", label: "Power workspaces" },
   { value: "100%", label: "Offline & private" },
   { value: "15MB", label: "Tiny download" },
